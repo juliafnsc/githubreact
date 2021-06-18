@@ -51,9 +51,10 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.1.7",
     "@types/styled-components": "^5.1.10",
-    "eslint": "^5.16.0",
+    "add": "^2.0.6",
+    "eslint": "^7.28.0",
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-import-resolver-typescript": "^2.4.0"
-    
+    "eslint-import-resolver-typescript": "^2.4.0",
+    "yarn": "^1.22.10"
   }
 }
